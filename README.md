@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/regenerative-and-friction-braking-roles-explainer/
 
+Repository: https://github.com/mizcausevic-dev/regenerative-and-friction-braking-roles-explainer
+
 ## What this is
 
 An interactive anatomy plate for Regenerative and Friction Braking Roles. Play, scrub, or jump the five stages. The same frame always draws the same picture.
